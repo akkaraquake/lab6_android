@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="popup_notification">Всплывающее уведомление</string>
+    <string name="status_bar_notification">Уведомление в строке состояния</string>
+    <string name="channel_name">Мой канал</string>
+    <string name="channel_description">Описание моего канала</string>
+    <string name="notification_title">Новое уведомление</string>
+    <string name="notification_text">Нажмите на уведомление для перехода в приложение</string>
+    <string name="toast_text">Всплывающее уведомление!</string>
+    <string name="text_for_toast_text">Введите текст для всплывающего уведомления</string>
+</resources>
